@@ -4,6 +4,7 @@ Patch: 7.34
 	Start items: Tango
 		     Blitz Knucles
 		     Phase Boots
+		     Moonshard
 		     Abyssal Blade
 End: Idem v tron
 Stavim layki i zarabativaem rating
