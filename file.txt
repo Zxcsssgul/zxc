@@ -1,0 +1,8 @@
+Name: Turbo sborka na Spirit Breaker
+Author: Turbo voyni
+Patch: 7.34
+	Start items: Tango
+		     Blitz Knucles
+		     Phase Boots
+		     Abyssal Blade
+End: Idem v tron
